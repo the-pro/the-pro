@@ -6,10 +6,10 @@
 Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in and mostly do competitive programming and also do some dev stuff here. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs
 
 ## 📫 Connect with me
-# For Hiring 
+### For Hiring 
 ✉️ [Email](mailto:i@imnerd.org) | 💬[LinkedIn](https://linkedin.com/in/ayas-behera-4a806262) | [CodeChef](https://codechef.com/users/quickrush_code)
 
-# For Getting a Coffee
+### For Getting a Coffee
 [Instagram](https://instagram.com/quick.rush) | [LinkedIn](https://linkedin.com/in/ayas-behera-4a806262)
 
 ## Collaboration
