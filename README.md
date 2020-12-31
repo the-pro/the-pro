@@ -3,6 +3,7 @@
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/the-pro)
+
 Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in and mostly do competitive programming and also do some dev stuff here. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs
 
 ## 📫 Connect with me
