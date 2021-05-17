@@ -8,7 +8,7 @@ Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. 
 
 ## 📫 Connect with me
 ### For Hiring 
-✉️ [Email](mailto:i@imnerd.org) | 💬[LinkedIn](https://linkedin.com/in/ayas-behera-4a806262) | [CodeChef](https://codechef.com/users/quickrush_code)
+✉️ [Email](mailto:rockingayas13@gmail.com) | 💬[LinkedIn](https://linkedin.com/in/ayas-behera-4a806262) | [CodeChef](https://codechef.com/users/quickrush_code)
 
 ### For Getting a Coffee
 [Instagram](https://instagram.com/quick.rush) | [LinkedIn](https://linkedin.com/in/ayas-behera-4a806262)
