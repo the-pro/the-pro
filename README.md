@@ -4,14 +4,16 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/the-pro)
 
-Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in and mostly do competitive programming and also do some dev stuff here. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs
+Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in almost everything javascript. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs, angular and React
+
+Currently I am Working with coding ninjas as a content developer intern for their frontend courses
 
 ## 📫 Connect with me
 ### For Hiring 
-✉️ [Email](mailto:rockingayas13@gmail.com) | 💬[LinkedIn](https://linkedin.com/in/ayas-behera-4a806262) | [CodeChef](https://codechef.com/users/quickrush_code)
+✉️ [Email](mailto:rockingayas13@gmail.com) | 💬[LinkedIn](https://linkedin.com/in/ayas-behera-4a806262)
 
 ### For Getting a Coffee
-[Instagram](https://instagram.com/quick.rush) | [LinkedIn](https://linkedin.com/in/ayas-behera-4a806262)
+[Instagram](https://instagram.com/quick.rush) | [LinkedIn](https://linkedin.com/in/ayas-behera-4a806262) | [Twitter](https://twitter.com/ayasbehera) 
 
 ## Collaboration
 I am willing to collaborate on any projects or hackathons where I can learn and work on new technologies.
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💻 My Open Source
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=the-pro&show_icons=true)
+![Ayas's Github stats](https://github-readme-stats.vercel.app/api?username=the-pro&show_icons=true)
