@@ -18,10 +18,6 @@ Currently I am Working with coding ninjas as a content developer intern for thei
 ## Collaboration
 I am willing to collaborate on any projects or hackathons where I can learn and work on new technologies.
 
-## 📚 Tech Articles and Blogs
-
-Here is an article on gfg : [why do we use the then() function in javascript]()
-
 <!--
 **the-pro/the-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
