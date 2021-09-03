@@ -1,10 +1,10 @@
 ## Introduction 👋
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/the-pro)
 
-Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in almost everything javascript. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs, angular and React
+Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in almost everything javascript. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs, angular and React.
 
 Currently I am Working with coding ninjas as a content developer intern for their frontend courses
 
