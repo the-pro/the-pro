@@ -6,7 +6,8 @@
 
 Hi, I am Ayas currently pursing my Btech degree in Computer Science from India. I am interested in almost everything javascript. I use javascript as my primary langauage for making web applications. I have some experience working with nodejs and expressjs, angular and React.
 
-Currently I am Working with coding ninjas as a content developer intern for their frontend courses
+I am currently working with Tamasha as a fullstack developer intern
+I have worked with coding ninjas as a content developer intern for their frontend courses.
 
 ## 📫 Connect with me
 ### For Hiring 
